@@ -51,9 +51,9 @@
 		180A034D2894102C00BAE6B7 /* Bullseye */ = {
 			isa = PBXGroup;
 			children = (
-				180A034E2894102C00BAE6B7 /* BullseyeApp.swift */,
-				180A03502894102C00BAE6B7 /* ContentView.swift */,
-				180A03522894102D00BAE6B7 /* Assets.xcassets */,
+				180A035E2894250D00BAE6B7 /* App */,
+				180A035D289424F900BAE6B7 /* Views */,
+				180A035C289424E800BAE6B7 /* Models */,
 				180A03542894102D00BAE6B7 /* Preview Content */,
 			);
 			path = Bullseye;
@@ -65,6 +65,30 @@
 				180A03552894102D00BAE6B7 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		180A035C289424E800BAE6B7 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		180A035D289424F900BAE6B7 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				180A03502894102C00BAE6B7 /* ContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		180A035E2894250D00BAE6B7 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				180A034E2894102C00BAE6B7 /* BullseyeApp.swift */,
+				180A03522894102D00BAE6B7 /* Assets.xcassets */,
+			);
+			path = App;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

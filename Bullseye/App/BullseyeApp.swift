@@ -2,7 +2,7 @@
 //  BullseyeApp.swift
 //  Bullseye
 //
-//  Created by Apple on 29/07/22.
+//  Created by Anirudh on 29/07/22.
 //
 
 import SwiftUI
