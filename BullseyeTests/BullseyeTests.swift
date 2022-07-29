@@ -21,10 +21,10 @@ class BullseyeTests: XCTestCase {
     }
     
     /**
-        Basic test case
-                func testExample() {
-                    XCTAssertEqual(game.points(sliderValue: 50), 999)
-                }
+     - Adding basic test case to check the equality of two values
+        func testExample() {
+            XCTAssertEqual(game.points(sliderValue: 50), 999)
+        }
      */
     
     func testScorePositive() {
